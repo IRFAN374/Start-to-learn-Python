@@ -5,6 +5,7 @@ this program works for find the maximum of 3 numbers:
 */
 
 
+print("This program receives 3 numbers from you and returns the highest one")
 
 
 /* here we take from user input x    */
